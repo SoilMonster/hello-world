@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(void){
-  printf("my first day in Github");
+  printf("This is my first day in Github, just feeling great!");
   return 0;
 }
